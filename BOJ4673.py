@@ -1,4 +1,4 @@
-# 백준 4673번 : 셀프 넘버 (실버 V)
+# 백준 4673번 : 셀프 넘버 (실버 V) copy model
 
 num_set = set(range(1, 10000))
 remove_set = set() # 생성자가 있는 숫자를 추가
