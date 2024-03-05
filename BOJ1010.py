@@ -1,4 +1,4 @@
-# 백준 1010번 : 다리 놓기 (실버 V)
+# 백준 1010번 : 다리 놓기 (실버 V) original model
 
 from math import *
 
